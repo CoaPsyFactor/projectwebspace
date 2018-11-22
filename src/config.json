@@ -1,0 +1,15 @@
+{
+    "application": {
+        "routes": [
+            "src/routes.php",
+            "Sources\\Controllers\\UserController"
+        ]
+    },
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "port": 3306,
+        "db_name": "core_forum"
+    }
+}
